@@ -1,0 +1,75 @@
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\bin\Release\Mecânica.exe.config
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\bin\Release\Mecânica.exe
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\bin\Release\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Alterar_Cliente.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Cadastro_Cliente.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Cadastro_Veiculo.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Clientes.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Veiculos.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Vincular_ClienteCarro.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.exe
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Menu.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Alterar_Veiculo.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Vincular_CarroCliente.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\bin\Release\Correios.dll
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\bin\Release\Correios.pdb
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Veiculos_Vinculados.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Cliente_Vinculado.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\bin\Release\Mecânica.exe.config
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\bin\Release\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\bin\Release\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\bin\Release\Correios.dll
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\bin\Release\Correios.pdb
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Alterar_Cliente.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Cliente_Vinculado.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Menu.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Alterar_Veiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Cadastro_Cliente.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Cadastro_Veiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Clientes.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Veiculos_Vinculados.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Veiculos.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Vincular_CarroCliente.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Vincular_ClienteCarro.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\bin\Release\FluentValidation.dll
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.0.0 Mecânica\mecanica_design\Mecânica\bin\Release\FluentValidation.xml
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.csprojAssemblyReference.cache
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Alterar_Cliente.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Cliente_Vinculado.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Menu.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Alterar_Veiculo.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Cadastro_Cliente.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Cadastro_Veiculo.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Clientes.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Properties.Resources.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Veiculos_Vinculados.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Veiculos.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Vincular_CarroCliente.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.Vincular_ClienteCarro.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.csproj.GenerateResource.cache
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.csproj.CoreCompileInputs.cache
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.exe
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.pdb
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Release\Mecânica.exe.config
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Release\Mecânica.exe
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Release\Mecânica.pdb
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Release\Correios.dll
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Release\FluentValidation.dll
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Release\Correios.pdb
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Release\FluentValidation.xml
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Release\Mecânica.csproj.CopyComplete

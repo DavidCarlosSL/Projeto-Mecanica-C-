@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{357F9FD3-DE12-4E83-9E83-128450878A33}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Mecânica</RootNamespace>
+    <AssemblyName>Mecânica</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Correios, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Correios-Api.1.1.1\lib\portable-net45+win\Correios.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentValidation, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7de548da2fbae0f0, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentValidation.8.5.0\lib\net45\FluentValidation.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Annotations.4.4.1\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adicionar Peca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adicionar Peca.Designer.cs">
+      <DependentUpon>Adicionar Peca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar Cliente.Designer.cs">
+      <DependentUpon>Alterar Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar Peca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar Peca.Designer.cs">
+      <DependentUpon>Alterar Peca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro Mecanico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro Mecanico.Designer.cs">
+      <DependentUpon>Cadastro Mecanico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro Orcamento.Designer.cs">
+      <DependentUpon>Cadastro Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente Vinculado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente Vinculado.Designer.cs">
+      <DependentUpon>Cliente Vinculado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarcaDAO.cs" />
+    <Compile Include="MecanicoDAO.cs" />
+    <Compile Include="Mecanicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mecanicos.Designer.cs">
+      <DependentUpon>Mecanicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar Veiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar Veiculo.Designer.cs">
+      <DependentUpon>Alterar Veiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro Cliente.Designer.cs">
+      <DependentUpon>Cadastro Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro Veiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro Veiculo.Designer.cs">
+      <DependentUpon>Cadastro Veiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClienteDAO.cs" />
+    <Compile Include="Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConexaoBanco.cs" />
+    <Compile Include="ModeloCliente.cs" />
+    <Compile Include="ModeloMarca.cs" />
+    <Compile Include="ModeloMecanico.cs" />
+    <Compile Include="ModeloOrcamento.cs" />
+    <Compile Include="ModeloPeca.cs" />
+    <Compile Include="ModeloRelatorio.cs" />
+    <Compile Include="ModeloVeiculo.cs" />
+    <Compile Include="OrcamentoDAO.cs" />
+    <Compile Include="Orcamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Orcamentos.Designer.cs">
+      <DependentUpon>Orcamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pecas Vinculadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pecas Vinculadas.Designer.cs">
+      <DependentUpon>Pecas Vinculadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pecas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pecas.Designer.cs">
+      <DependentUpon>Pecas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PecaDAO.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Relatorio Faturamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorio Faturamento.Designer.cs">
+      <DependentUpon>Relatorio Faturamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorio Mecanico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorio Mecanico.Designer.cs">
+      <DependentUpon>Relatorio Mecanico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorio Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorio Orcamento.Designer.cs">
+      <DependentUpon>Relatorio Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelatorioDAO.cs" />
+    <Compile Include="Relatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios.Designer.cs">
+      <DependentUpon>Relatorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validators\ClienteValidator.cs" />
+    <Compile Include="Validators\MecanicoValidator.cs" />
+    <Compile Include="Validators\VeiculoValidator.cs" />
+    <Compile Include="VeiculoDAO.cs" />
+    <Compile Include="Veiculos Vinculados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Veiculos Vinculados.Designer.cs">
+      <DependentUpon>Veiculos Vinculados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Veiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Veiculos.Designer.cs">
+      <DependentUpon>Veiculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vincular CarroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vincular CarroCliente.Designer.cs">
+      <DependentUpon>Vincular CarroCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vincular ClienteCarro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vincular ClienteCarro.Designer.cs">
+      <DependentUpon>Vincular ClienteCarro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vincular OrcamentoMecanico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vincular OrcamentoMecanico.Designer.cs">
+      <DependentUpon>Vincular OrcamentoMecanico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vincular OrcamentoVeiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vincular OrcamentoVeiculo.Designer.cs">
+      <DependentUpon>Vincular OrcamentoVeiculo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Adicionar Peca.resx">
+      <DependentUpon>Adicionar Peca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar Cliente.resx">
+      <DependentUpon>Alterar Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar Peca.resx">
+      <DependentUpon>Alterar Peca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro Mecanico.resx">
+      <DependentUpon>Cadastro Mecanico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro Orcamento.resx">
+      <DependentUpon>Cadastro Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente Vinculado.resx">
+      <DependentUpon>Cliente Vinculado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mecanicos.resx">
+      <DependentUpon>Mecanicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar Veiculo.resx">
+      <DependentUpon>Alterar Veiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro Cliente.resx">
+      <DependentUpon>Cadastro Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro Veiculo.resx">
+      <DependentUpon>Cadastro Veiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Orcamentos.resx">
+      <DependentUpon>Orcamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pecas Vinculadas.resx">
+      <DependentUpon>Pecas Vinculadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pecas.resx">
+      <DependentUpon>Pecas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Relatorio Faturamento.resx">
+      <DependentUpon>Relatorio Faturamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorio Mecanico.resx">
+      <DependentUpon>Relatorio Mecanico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorio Orcamento.resx">
+      <DependentUpon>Relatorio Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios.resx">
+      <DependentUpon>Relatorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Veiculos Vinculados.resx">
+      <DependentUpon>Veiculos Vinculados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Veiculos.resx">
+      <DependentUpon>Veiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vincular CarroCliente.resx">
+      <DependentUpon>Vincular CarroCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vincular ClienteCarro.resx">
+      <DependentUpon>Vincular ClienteCarro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vincular OrcamentoMecanico.resx">
+      <DependentUpon>Vincular OrcamentoMecanico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vincular OrcamentoVeiculo.resx">
+      <DependentUpon>Vincular OrcamentoVeiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgroundreal.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

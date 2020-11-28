@@ -1,0 +1,274 @@
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Mecânica\Mecânica\bin\Debug\Mecânica.exe.config
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Mecânica\Mecânica\bin\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Mecânica\Mecânica\bin\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Mecânica\Mecânica\obj\Debug\Mecânica.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Mecânica\Mecânica\obj\Debug\Mecânica.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Mecânica\Mecânica\obj\Debug\Mecânica.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Mecânica\Mecânica\obj\Debug\Mecânica.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Mecânica\Mecânica\obj\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Mecânica\Mecânica\obj\Debug\Mecânica.pdb
+C:\Users\Pedro S\Music\Mecânica 25-09-19\Mecânica\bin\Debug\Mecânica.exe.config
+C:\Users\Pedro S\Music\Mecânica 25-09-19\Mecânica\bin\Debug\Mecânica.exe
+C:\Users\Pedro S\Music\Mecânica 25-09-19\Mecânica\bin\Debug\Mecânica.pdb
+C:\Users\Pedro S\Music\Mecânica 25-09-19\Mecânica\obj\Debug\Mecânica.csprojAssemblyReference.cache
+C:\Users\Pedro S\Music\Mecânica 25-09-19\Mecânica\obj\Debug\Mecânica.Alterar_Cliente.resources
+C:\Users\Pedro S\Music\Mecânica 25-09-19\Mecânica\obj\Debug\Mecânica.Cadastro_Cliente.resources
+C:\Users\Pedro S\Music\Mecânica 25-09-19\Mecânica\obj\Debug\Mecânica.Cadastro_Veiculo.resources
+C:\Users\Pedro S\Music\Mecânica 25-09-19\Mecânica\obj\Debug\Mecânica.Clientes.resources
+C:\Users\Pedro S\Music\Mecânica 25-09-19\Mecânica\obj\Debug\Mecânica.Form1.resources
+C:\Users\Pedro S\Music\Mecânica 25-09-19\Mecânica\obj\Debug\Mecânica.Properties.Resources.resources
+C:\Users\Pedro S\Music\Mecânica 25-09-19\Mecânica\obj\Debug\Mecânica.Veiculos.resources
+C:\Users\Pedro S\Music\Mecânica 25-09-19\Mecânica\obj\Debug\Mecânica.csproj.GenerateResource.cache
+C:\Users\Pedro S\Music\Mecânica 25-09-19\Mecânica\obj\Debug\Mecânica.csproj.CoreCompileInputs.cache
+C:\Users\Pedro S\Music\Mecânica 25-09-19\Mecânica\obj\Debug\Mecânica.exe
+C:\Users\Pedro S\Music\Mecânica 25-09-19\Mecânica\obj\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\bin\Debug\Mecânica.exe.config
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\bin\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\bin\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\obj\Debug\Mecânica.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Cliente.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\obj\Debug\Mecânica.Form1.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Cliente.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Veiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\obj\Debug\Mecânica.Clientes.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\obj\Debug\Mecânica.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\obj\Debug\Mecânica.Veiculos.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\obj\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\obj\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\mecanica_design-20190930T004836Z-001\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_ClienteCarro.resources
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csprojAssemblyReference.cache
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.exe
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.pdb
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.exe.config
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.exe
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.pdb
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Cliente.resources
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Form1.resources
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Cliente.resources
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Veiculo.resources
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Clientes.resources
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Properties.Resources.resources
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Veiculos.resources
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_ClienteCarro.resources
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.GenerateResource.cache
+C:\Users\Giseli\Desktop\Projeto - Mecânica\Backup\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.exe.config
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Cliente.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Cliente.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Veiculo.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Clientes.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Veiculos.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_ClienteCarro.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Menu.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Veiculo.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Correios.dll
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Correios.pdb
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_CarroCliente.resources
+C:\Users\T-Gamer\Desktop\2.0.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Carros_Vinculados.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.exe.config
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.exe
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.pdb
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Correios.dll
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Debug\FluentValidation.dll
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Correios.pdb
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\bin\Debug\FluentValidation.xml
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csprojAssemblyReference.cache
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Cliente.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cliente_Vinculado.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Menu.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Veiculo.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Cliente.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Veiculo.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Clientes.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Properties.Resources.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Veiculos_Vinculados.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Veiculos.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_CarroCliente.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_ClienteCarro.resources
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.GenerateResource.cache
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CoreCompileInputs.cache
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CopyComplete
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.exe
+C:\Users\Giseli\Desktop\3.1.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\bin\Debug\Mecânica.exe.config
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\bin\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\bin\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\bin\Debug\Correios.dll
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\bin\Debug\FluentValidation.dll
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\bin\Debug\Correios.pdb
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\bin\Debug\FluentValidation.xml
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Cliente.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.Cliente_Vinculado.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.Menu.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Veiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Cliente.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Veiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.Clientes.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.Veiculos_Vinculados.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.Veiculos.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_CarroCliente.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_ClienteCarro.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\Mecânica 3.1.1\mecanica_design\Mecânica\obj\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.exe.config
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\bin\Debug\Correios.dll
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\bin\Debug\FluentValidation.dll
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\bin\Debug\Correios.pdb
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\bin\Debug\FluentValidation.xml
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Cliente.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cliente_Vinculado.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Menu.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Veiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Cliente.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Veiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Clientes.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Veiculos_Vinculados.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Veiculos.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_CarroCliente.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_ClienteCarro.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Mecanicos.resources
+C:\Users\T-Gamer\Desktop\Projeto - Mecânica\Aplicativo\3.1.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Mecanico.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Adicionar_Peca.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Cliente.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Peca.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Mecanico.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Orcamento.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cliente_Vinculado.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Mecanicos.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Menu.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Veiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Cliente.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Veiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Clientes.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Orcamentos.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Pecas.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Veiculos_Vinculados.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Veiculos.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_CarroCliente.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_ClienteCarro.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.exe.config
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Correios.dll
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\bin\Debug\FluentValidation.dll
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Correios.pdb
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\bin\Debug\FluentValidation.xml
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Pecas_Vinculadas.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_OrcamentoMecanico.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.2.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_OrcamentoVeiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.exe.config
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Correios.dll
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\bin\Debug\FluentValidation.dll
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\bin\Debug\Correios.pdb
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\bin\Debug\FluentValidation.xml
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Adicionar_Peca.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Cliente.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Peca.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Mecanico.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Orcamento.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cliente_Vinculado.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Mecanicos.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Menu.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Veiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Cliente.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Veiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Clientes.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Orcamentos.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Pecas_Vinculadas.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Pecas.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Veiculos_Vinculados.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Veiculos.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_CarroCliente.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_ClienteCarro.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_OrcamentoMecanico.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_OrcamentoVeiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Relatorios.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Relatorio_Faturamento.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Relatorio_Orcamento.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.3.0 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Relatorio_Mecanico.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Adicionar_Peca.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Cliente.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Peca.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Mecanico.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Orcamento.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cliente_Vinculado.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Mecanicos.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Menu.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Alterar_Veiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Cliente.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Cadastro_Veiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Clientes.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Orcamentos.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Pecas_Vinculadas.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Pecas.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Relatorio_Faturamento.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Relatorio_Mecanico.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Relatorio_Orcamento.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Relatorios.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Veiculos_Vinculados.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Veiculos.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_CarroCliente.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_ClienteCarro.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_OrcamentoMecanico.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.Vincular_OrcamentoVeiculo.resources
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.exe.config
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.exe
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\bin\Debug\Mecânica.pdb
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\bin\Debug\Correios.dll
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\bin\Debug\FluentValidation.dll
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\bin\Debug\Correios.pdb
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\bin\Debug\FluentValidation.xml
+C:\Users\T-Gamer\Desktop\Projeto C#\Aplicativo\3.4.1 Mecânica\mecanica_design\Mecânica\obj\Debug\Mecânica.csproj.CopyComplete
